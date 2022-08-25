@@ -1,6 +1,6 @@
 -r requirements.txt
 black==22.6.0
-eth-tester[py-evm]==0.6.0b6
+eth-tester[py-evm]==0.7.0b1
 coverage
 pytest
 pytest-cov
